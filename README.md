@@ -24,4 +24,4 @@ This project involved building a dynamic Key Performance Indicator (KPI) dashboa
 - [`Toy_Store_KPI_Report.png`](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.png): An image of the final dashboard.
 
 ---
-([Repot](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.png))
+![Toy-Store-KPI-Report](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.png)
