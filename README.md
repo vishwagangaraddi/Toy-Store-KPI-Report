@@ -20,8 +20,8 @@ This project involved building a dynamic Key Performance Indicator (KPI) dashboa
 - KPI Dashboards, Time Series Analysis
 
 ## Project Deliverables
-- `Toy_Store_KPI_Report.pbix`: The Power BI project file containing the data model, measures, and visualizations.
-- `Toy_Store_KPI_Report.png`: An image of the final dashboard.
+- [`Toy_Store_KPI_Report.pbix`](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.pbix): The Power BI project file containing the data model, measures, and visualizations.
+- [`Toy_Store_KPI_Report.png`](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.png): An image of the final dashboard.
 
 ---
-(https://i.imgur.com/k91Jv6N.png)
+([Repot](https://github.com/vishwagangaraddi/Toy-Store-KPI-Report/blob/main/Toy_Store_KPI_Report.png))
